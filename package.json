@@ -8,6 +8,10 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/joramkimata/to255.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
